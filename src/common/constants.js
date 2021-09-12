@@ -1,4 +1,9 @@
 export const constants = {
-  darkGrey: '#303434'
+  onyx: '#393d3f',
+  mainBlue: '#7289da',
+  wheat: '#e1ca96',
+  sage: '#aca885',
+  charcoalBlue: '#2e4057',
+  whitesmoke: '#f5f5f5',
 }
 
