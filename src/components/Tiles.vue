@@ -32,6 +32,14 @@ export default {
         command: '!buy 200',
         imageURL: '',
         soundBiteUrl: ''
+      },
+      {
+        title: 'Title3',
+        description: 'this is the item description. should be a few lines long',
+        price: 2500,
+        command: '!buy 300',
+        imageURL: '',
+        soundBiteUrl: ''
       }
     ]
   })
